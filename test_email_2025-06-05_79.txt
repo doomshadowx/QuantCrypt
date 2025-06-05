@@ -1,0 +1,1 @@
+Test email verification for UI (legacy) - Implemented a new feature to enhance email verification.
